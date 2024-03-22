@@ -1,0 +1,1 @@
+{"virtualbox":{"/data":{"guestpath":"/data","hostpath":"/Users/eddie/CSE/SBCS/GeekGames2024/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/eddie/CSE/SBCS/GeekGames2024/box","disabled":false,"__vagrantfile":true}}}
